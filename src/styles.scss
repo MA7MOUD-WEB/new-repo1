@@ -1,0 +1,24 @@
+$bgColor:#131722;
+$lightBgColor:#24baef;
+$bgTransparent:rgba(36, 186, 239, .6);
+$fontColor:#fff;
+$borderColor:#a8a;
+$borderHeight:.5;
+$secondFontColor:#949cb0;
+body {
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: $bgColor;
+    color: $lightBgColor;
+}
+
+a {
+    font-size: 18px;
+    color: $fontColor;
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 18px;
+    color: $fontColor;
+    text-decoration: none;
+}
